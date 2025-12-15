@@ -7,3 +7,4 @@ pandas
 imageio
 # For supporting .md-based notebooks
 jupytext
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
